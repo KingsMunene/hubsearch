@@ -10,7 +10,7 @@ check out my Portfolio:[https://kingsmunene.github.io/]()
 
 |       ACTION                                                            |            OUTPUT                       |
 | ------------------------------------------------------------------------|:---------------------------------------:|
-| The user types in a github username                                     | The github user's profile details:      |
+| The user types in a github username                                       The github user's profile details:      |
 |                                                                         | followers,following,userID,repositories)|
 | The user clicks on a repository                                         | It redirects them to the repo in git hub|
 
