@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  api:"55b4afa4e41997a70f6f542da4b3af5cda94cc81"
+  apiUrl:"https://api.github.com"
 };
 
 /*
