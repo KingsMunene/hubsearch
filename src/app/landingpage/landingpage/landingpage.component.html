@@ -5,7 +5,8 @@
           <span class="input-group-text" id="basic-addon1">@</span>
         </div>
   <input type="text" placeholder="search username" aria-label="Username" aria-describedby="basic-addon1" [(ngModel)]="userName" name="username" (keyup)="findUser()">
-</div>
+ <a target="_blank" class="btn btn-outline-white btn-lg text-info" type="button"  (click)="findUser()" > 
+  </div>
 </form>
 <div *ngIf="user">
 <div class="card">
